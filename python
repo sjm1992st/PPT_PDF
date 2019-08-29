@@ -1,0 +1,1 @@
+自动生成依赖文件 requirements   pipreqs ./ --encoding=utf8 （windows下指定编码）
