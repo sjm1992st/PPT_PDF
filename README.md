@@ -14,3 +14,9 @@ Generation (2017)
     - Affective Neural Response Generation (2017)
     - CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation (2020)
     - 情感对话生成研究综述
+
+#### 时序预测算法
+- 论文：
+    - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting
+    - Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting
+    - Prophet: https://github.com/facebook/prophet
