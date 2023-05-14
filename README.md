@@ -20,3 +20,8 @@ Generation (2017)
     - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting
     - Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting
     - Prophet: https://github.com/facebook/prophet
+#### 大模型LLM
+    - Language Models are Few-Shot Learners
+    - Training language models to follow instructions with human feedback
+    - https://ai.google/static/documents/palm2techreport.pdf
+    
