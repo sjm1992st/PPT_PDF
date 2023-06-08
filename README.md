@@ -26,4 +26,7 @@ Generation (2017)
     - Training language models to follow instructions with human feedback
     - https://ai.google/static/documents/palm2techreport.pdf
     - GLM: General Language Model Pretraining with Autoregressive Blank Infilling
+    - CoT:
+        - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+        - Large Language Models Are Reasoning Teachers
     
