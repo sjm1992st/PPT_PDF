@@ -30,3 +30,4 @@ Generation (2017)
         - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
         - Large Language Models Are Reasoning Teachers
     
+    - 北京智源大会 Yann LeCun https://hub.baai.ac.cn/view/27
