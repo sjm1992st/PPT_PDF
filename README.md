@@ -25,6 +25,7 @@ Generation (2017)
     - Language Models are Few-Shot Learners
     - Training language models to follow instructions with human feedback
     - https://ai.google/static/documents/palm2techreport.pdf
+    - LLaMA: Open and Efficient Foundation Language Models
     - GLM: General Language Model Pretraining with Autoregressive Blank Infilling
     - CoT:
         - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
