@@ -33,3 +33,4 @@ Generation (2017)
     
     - 北京智源大会 Yann LeCun https://hub.baai.ac.cn/view/27
     - https://github.com/baichuan-inc/baichuan-7B/tree/main (百川大模型)
+    - A Survey on Multimodal Large Language Models
