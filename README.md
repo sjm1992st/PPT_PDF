@@ -30,6 +30,8 @@ Generation (2017)
     - CoT:
         - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
         - Large Language Models Are Reasoning Teachers
+    - 大模型幻觉：
+        - Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models 
     
     - 北京智源大会 Yann LeCun https://hub.baai.ac.cn/view/27
     - https://github.com/baichuan-inc/baichuan-7B/tree/main (百川大模型)
