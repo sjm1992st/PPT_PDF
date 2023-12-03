@@ -1,0 +1,6 @@
+大模型COT
+CoT推理是有帮助的。这一发现意味着LLM必须具备与任务相关的知识，才能支持CoT推理。我们把这种知识称为核心知识。
+在训练语料库中引入LLM的推理材料和必要知识，也大大提高了LLM的CoT推理能力。最近的研究发现，使用代码数据进行预训练或使用CoT风格数据进行微调（例如，指令调整）有利于有效的CoT推理。也就是说，可以改进在同样LLM的CoT推理，或者可以在较小的模型中诱导CoT推理能力
+文章 Large Language Models Are Reasoning Teachers
+- 对于复杂任务的COT依赖于大参数的模型，对于参数较小的模型作者提出了fine-tune-CoT，原理是通过将大参数量的模型当成一个教师模型给小参数模型产生样本
+文章 Least-to-most prompting enables complex reasoning in large language models
